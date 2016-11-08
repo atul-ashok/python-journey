@@ -1,2 +1,3 @@
 # python-journey
 Journey down the python-hole
+From basic concepts and onwards...
